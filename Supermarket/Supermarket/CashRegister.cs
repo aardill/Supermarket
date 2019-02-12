@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace Supermarket
 {
-    public class CashRegister
+    public class CashRegister : ICashRegister
     {
         private Pricer pricer;
 

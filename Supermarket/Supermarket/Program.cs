@@ -31,7 +31,6 @@ namespace Supermarket
             total = cashRegister.Total(items, priceList);
 
             Console.Write(total);
-
         }
     }
 }

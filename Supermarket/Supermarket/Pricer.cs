@@ -30,12 +30,12 @@ namespace Supermarket
                           select new
                           {
                               item.Name,
-                              Total = pl.Number > 0 ?
+                              Price = pl.Number > 0 ?
                                        pl.DiscountPrice * Math.Floor(Convert.ToDecimal(item.Number / pl.Number)) + pl.Price * (item.Number % pl.Number) :
                                        item.Number * pl.Price
                           };
 
-            return prices.Select(s => s.Total);
+            return prices.Select(s => s.Price);
         }
     }
 }
