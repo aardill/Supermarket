@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\Supermarket\Supermarket\SupermarketTests\bin\Debug\netcoreapp2.1\SupermarketTests.deps.json
+C:\Users\User\source\repos\Supermarket\Supermarket\SupermarketTests\bin\Debug\netcoreapp2.1\SupermarketTests.dll
+C:\Users\User\source\repos\Supermarket\Supermarket\SupermarketTests\obj\Debug\netcoreapp2.1\SupermarketTests.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Supermarket\Supermarket\SupermarketTests\obj\Debug\netcoreapp2.1\SupermarketTests.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Supermarket\Supermarket\SupermarketTests\obj\Debug\netcoreapp2.1\SupermarketTests.AssemblyInfo.cs
+C:\Users\User\source\repos\Supermarket\Supermarket\SupermarketTests\obj\Debug\netcoreapp2.1\SupermarketTests.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Supermarket\Supermarket\SupermarketTests\bin\Debug\netcoreapp2.1\SupermarketTests.runtimeconfig.json
+C:\Users\User\source\repos\Supermarket\Supermarket\SupermarketTests\bin\Debug\netcoreapp2.1\SupermarketTests.runtimeconfig.dev.json
+C:\Users\User\source\repos\Supermarket\Supermarket\SupermarketTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\User\source\repos\Supermarket\Supermarket\SupermarketTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\User\source\repos\Supermarket\Supermarket\SupermarketTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\User\source\repos\Supermarket\Supermarket\SupermarketTests\bin\Debug\netcoreapp2.1\SupermarketTests.pdb
+C:\Users\User\source\repos\Supermarket\Supermarket\SupermarketTests\bin\Debug\netcoreapp2.1\Supermarket.dll
+C:\Users\User\source\repos\Supermarket\Supermarket\SupermarketTests\bin\Debug\netcoreapp2.1\Supermarket.pdb
+C:\Users\User\source\repos\Supermarket\Supermarket\SupermarketTests\obj\Debug\netcoreapp2.1\SupermarketTests.csproj.CopyComplete
+C:\Users\User\source\repos\Supermarket\Supermarket\SupermarketTests\obj\Debug\netcoreapp2.1\SupermarketTests.dll
+C:\Users\User\source\repos\Supermarket\Supermarket\SupermarketTests\obj\Debug\netcoreapp2.1\SupermarketTests.pdb
